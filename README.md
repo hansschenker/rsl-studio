@@ -96,11 +96,12 @@ A *state machine* is just a list of named places and the rule for moving from on
 ## Run
 
 ```bash
+git pull
 npm install
 npm run dev
 ```
 
-Then open the URL Vite prints (port `8080` by default).
+Vite prints a local URL (port `5173`). Open that in the browser.
 
 ## Layout
 
