@@ -4,7 +4,7 @@ A small language and workbench for **drawing RxJS programs as JSON**.
 
 You do not need to know Amazon States Language (ASL) to use this. RSL stands for **Reactive States Language**. RSL Studio is the editor around it: write a document, see the pipeline as a graph, compile it to RxJS, and run the stream.
 
-<!-- co-author: SuperGrok (x.com) -->
+<!-- co-author: SuperGrok <supergrok@users.noreply.github.com> -->
 
 ## What problem this solves
 
@@ -111,4 +111,4 @@ Then open the URL Vite prints (port `8080` by default).
 ## Authors
 
 - Hans Schenker
-- Co-author: SuperGrok Build — [x.com](https://x.com) (`supergrok@x.com`)
+- Co-author: SuperGrok Build (`supergrok@users.noreply.github.com`)
